@@ -5,7 +5,7 @@
 
 ### 安装说明
 
-1. fork库到自己的githu（请看先看考大神网址：http://liuyanwei.jumppo.com）
+1. fork库到自己的githu（请看先看考大神网址：http://liuyanwei.jumppo.com
 2. 修改名字为：`username.github.io`
 3. clone库到本地，参考`_posts`中的目录结构自己创建适合自己的文章目录结构
 4. 修改CNAME，或者删掉这个文件，使用默认域名
