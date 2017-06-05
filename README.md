@@ -1,10 +1,11 @@
 ### 我的博客
 
-地址：[http://liuyanwei.jumppo.com](http://liuyanwei.jumppo.com)
+地址：[http://dev.panyanzhi.com](http://liuyanwei.jumppo.com)
 
 
 ### 安装说明
 
+0.请看先看考大神网址：http://liuyanwei.jumppo.com
 1. fork库到自己的github
 2. 修改名字为：`username.github.io`
 3. clone库到本地，参考`_posts`中的目录结构自己创建适合自己的文章目录结构
